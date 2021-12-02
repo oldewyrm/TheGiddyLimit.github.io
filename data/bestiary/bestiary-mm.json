@@ -27520,6 +27520,15 @@
 					]
 				}
 			],
+			"bonus": [
+				{
+					"name": "Nimble Escape",
+					"entries": [
+						"The goblin can take the Disengage or Hide action."
+					],
+					"displayAs": "trait"
+				}
+			],
 			"environment": [
 				"underdark",
 				"grassland",
